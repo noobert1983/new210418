@@ -1,1 +1,3 @@
 trzeci plik
+
+zmiana w pliku 3
